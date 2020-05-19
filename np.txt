@@ -1,0 +1,17 @@
+commit 38558e0692f2c89d149426f2bd01931ac8ac20bc
+Author: KrzysztofJ85 <krzysztof.jucha@gmail.com>
+Date:   Tue May 19 21:13:23 2020 +0200
+
+    modified cmd
+
+commit 1cd2e7aea1262f4fd1850897f9cda7a66c2b538f
+Author: KrzysztofJ85 <krzysztof.jucha@gmail.com>
+Date:   Tue May 19 21:02:31 2020 +0200
+
+    file.txt modified
+
+commit c90c9666e56156df5edeba0e7098436ae7623d41
+Author: KrzysztofJ85 <krzysztof.jucha@gmail.com>
+Date:   Tue May 19 20:58:03 2020 +0200
+
+    Initial commit
