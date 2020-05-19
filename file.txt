@@ -1,1 +1,3 @@
-6
+hello Coders School!
+add something
+hi!
